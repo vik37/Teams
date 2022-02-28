@@ -1,0 +1,32 @@
+﻿@model IEnumerable<PlayerVM>
+@{
+    ViewData["Title"] = "Player";
+    
+}
+<h1>Player</h1>
+
+<div>
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Firstname</th>
+                <th scope="col">Lastname</th>
+                <th scope="col">Date of birth</th>
+                <th scope="col">Value</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(var player in Model){
+            
+            <tr>
+                <th scope="row"></th>
+                <td>@player.Firstname</td>
+                <td>@player.Lastname</td>
+                <td>@player.DateOfBirth</td>
+                <td>@player.Value</td>
+            </tr>
+            }
+        </tbody>
+    </table>
+</div>

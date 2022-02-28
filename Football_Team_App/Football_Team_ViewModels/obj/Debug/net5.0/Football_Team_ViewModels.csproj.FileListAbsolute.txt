@@ -1,0 +1,11 @@
+C:\Users\vikto\source\repos\Football_Team_App\Football_Team_ViewModels\bin\Debug\net5.0\Football_Team_ViewModels.deps.json
+C:\Users\vikto\source\repos\Football_Team_App\Football_Team_ViewModels\bin\Debug\net5.0\Football_Team_ViewModels.dll
+C:\Users\vikto\source\repos\Football_Team_App\Football_Team_ViewModels\bin\Debug\net5.0\ref\Football_Team_ViewModels.dll
+C:\Users\vikto\source\repos\Football_Team_App\Football_Team_ViewModels\bin\Debug\net5.0\Football_Team_ViewModels.pdb
+C:\Users\vikto\source\repos\Football_Team_App\Football_Team_ViewModels\obj\Debug\net5.0\Football_Team_ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\source\repos\Football_Team_App\Football_Team_ViewModels\obj\Debug\net5.0\Football_Team_ViewModels.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\Football_Team_App\Football_Team_ViewModels\obj\Debug\net5.0\Football_Team_ViewModels.AssemblyInfo.cs
+C:\Users\vikto\source\repos\Football_Team_App\Football_Team_ViewModels\obj\Debug\net5.0\Football_Team_ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\Football_Team_App\Football_Team_ViewModels\obj\Debug\net5.0\Football_Team_ViewModels.dll
+C:\Users\vikto\source\repos\Football_Team_App\Football_Team_ViewModels\obj\Debug\net5.0\ref\Football_Team_ViewModels.dll
+C:\Users\vikto\source\repos\Football_Team_App\Football_Team_ViewModels\obj\Debug\net5.0\Football_Team_ViewModels.pdb
